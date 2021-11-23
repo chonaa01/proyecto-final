@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+body{
+    background-color: #5e5c5c
+}
+.titulo{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+h1{
+    margin: 20px;
+    padding: 10px;
+}
+.links{
+    background-color: black;
+}
+.lista ul
+{
+   padding-right: 0px;
+   padding-left: 0px;
+   padding-bottom: 0px;
+   padding-top: 0px;
+   margin: 0px;
+}
+.lista li
+{
+   list-style-type: none;
+   display: inline;
+   padding-right: 5px;
+}
+.a{
+    color: white;
+}
+.textoLorem{
+    font-family: 'Oswald',sans-serif;
+    text-align: center;
+    line-height: 1.6;
+}
+h2{
+    background-color: rgb(235, 235, 82);
+    font-family: 'Oswald',sans-serif;
+    font-weight: normal;
+    margin: 10px;
+}
+.parrafo{
+    text-align: center;
+    font-family: 'Oswald',sans-serif;
+    line-height: 1.6;
+}
+.formulario{
+    font-family: 'Oswald'sans-serif;
+}
